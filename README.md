@@ -1,4 +1,4 @@
-# Nginx App Deployed to Kubernetes using ArgoCD
+# Create Multi-Node Local Kubernetes Cluster (KinD) with LoadBalancer (Metallb)
 
 ## Create Kubernetes Cluster with KinD
 
